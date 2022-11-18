@@ -18,7 +18,7 @@
     "react-dom": "^16.8.6",
     "react-icons": "^3.7.0",
     "react-responsive-modal": "^4.0.1",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
